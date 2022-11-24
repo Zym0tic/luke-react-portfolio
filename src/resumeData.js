@@ -52,8 +52,8 @@ let resumeData = {
     ],
     "testimonials":[
       {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
+        "description":"Great to work with. Built a very beautiful and functioning e-commerce site for my jewlery business.",
+        "name":"Brooke Bean -- Criminal Medals"
       },
       {
         "description":"This is a sample testimonial",
