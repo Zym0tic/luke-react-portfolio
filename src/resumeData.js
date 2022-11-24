@@ -56,8 +56,8 @@ let resumeData = {
         "name":"Brooke Bean -- Criminal Medals"
       },
       {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
+        "description":"Built a very awesome portfolio site for me in a short time. Would reccomend.",
+        "name":"Melizza Pitterman -- Tattoo Artist"
       }
     ]
   }
