@@ -15,7 +15,7 @@ let resumeData = {
           "className":"fa fa-github"
         },
       ],
-    "aboutme":"I am a Canadian Web Developer currently located in Philadelphia, PA. I love working on group projects as well as creating e-commerce applications for a growing number of clients. I have also been an Interior Decorator and Musician which has given me the tools to collaborate on projects, honed my attention to detail and follow algorithms set out by the customer/client. In my free time I love to be in nature, travel, ride motorcycles and cook.",
+    "aboutme":"I am a Canadian Web Developer currently located in Philadelphia, PA. I love working on group projects as well as creating e-commerce and portfolio applications for a growing number of clients. I have also been an Interior Decorator and Musician which has given me the tools to collaborate on projects, honed my attention to detail and follow algorithms set out by the customer/client. In my free time I love to be in nature, travel, ride motorcycles and cook.",
     "address":"2019 N Orkney, Philadelphia PA",
     "website":"lucasrozon.com",
     "education":[
