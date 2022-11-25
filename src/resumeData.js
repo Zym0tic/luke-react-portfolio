@@ -29,7 +29,7 @@ let resumeData = {
     ],
     "work":[
       {
-        "Proficiencies":"Proficiencies:",
+        "Proficiencies":"Link to Resume:",
         "Achievements":"Some Achievements"
       },
     ],
