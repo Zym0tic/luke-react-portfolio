@@ -45,9 +45,9 @@ let resumeData = {
         "imgurl":"images/portfolio/criminal-medals.PNG"
       },
       {
-        "name":"project3",
+        "name":"Vapor",
         "description":"mobileapp",  
-        "imgurl":"images/portfolio/project2.png"
+        "imgurl":"images/portfolio/vapor.png"
       },
     ],
     "testimonials":[
