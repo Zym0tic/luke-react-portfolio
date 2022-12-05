@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/luke-react-portfolio/static/css/main.4152c3d3.css",
+    "main.js": "/luke-react-portfolio/static/js/main.760f3559.js",
+    "static/media/luke-resume.pdf": "/luke-react-portfolio/static/media/luke-resume.ecd097f21dbd00b0de19.pdf",
+    "index.html": "/luke-react-portfolio/index.html",
+    "main.4152c3d3.css.map": "/luke-react-portfolio/static/css/main.4152c3d3.css.map",
+    "main.760f3559.js.map": "/luke-react-portfolio/static/js/main.760f3559.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4152c3d3.css",
+    "static/js/main.760f3559.js"
+  ]
+}
